@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "804492140165",
+    "project_id": "yomi-block-puzzle-3139f",
+    "storage_bucket": "yomi-block-puzzle-3139f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804492140165:android:37ba456b3c3fdd763c93ec",
+        "android_client_info": {
+          "package_name": "com.yomigames.yomiblockp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804492140165-u1dtre8jaetsicdainlh84440s89t95k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yomigames.yomiblockp",
+            "certificate_hash": "195cb918eb2f5fdb440b8578a1c94d99c65e3573"
+          }
+        },
+        {
+          "client_id": "804492140165-9dm0ipps1tvo9hr6jrpos6p4n9q59ohu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEFZcoLTgdjIshp3BFcZ7Nu0D2EEYQ_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804492140165-9dm0ipps1tvo9hr6jrpos6p4n9q59ohu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804492140165-ht91ilj6kr10hc26u6aepo2k0ndhn27s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yomigames.yomiblockpuzzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
