@@ -23,7 +23,6 @@
         <div id="unity-build-title">Yomi Block Puzzle</div>
       </div>
     </div>
-    <script src="https://assets.msn.com/staticsb/statics/latest/msstart-games-sdk/msstart-v1.0.0-rc.13.min.js"></script>
     <script>
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
@@ -57,11 +56,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Block Puzzle Web Build.loader.js";
+      var loaderUrl = buildUrl + "/yomi-block-puzzle-web-build.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Block Puzzle Web Build.data",
-        frameworkUrl: buildUrl + "/Block Puzzle Web Build.framework.js",
-        codeUrl: buildUrl + "/Block Puzzle Web Build.wasm",
+        dataUrl: buildUrl + "/yomi-block-puzzle-web-build.data",
+        frameworkUrl: buildUrl + "/yomi-block-puzzle-web-build.framework.js",
+        codeUrl: buildUrl + "/yomi-block-puzzle-web-build.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Yomi Games",
         productName: "Yomi Block Puzzle",
